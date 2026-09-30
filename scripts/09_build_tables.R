@@ -198,7 +198,7 @@ congener_structure <- utils::read.csv(file.path(
   paths$results, "congener_albumin_structure.csv"
 ))
 congener_structure$beta_95_ci <- sprintf(
-  "%.3f (%.3f to %.3f)",
+  "%.4f (%.4f, %.4f)",
   congener_structure$beta_albumin,
   congener_structure$ci_low,
   congener_structure$ci_high
@@ -220,7 +220,7 @@ scenario_domains <- c(
   pre_2015_overlap_cycles = "Cycle restriction"
 )
 format_contrast <- function(row) {
-  sprintf("%.4f (%.4f to %.4f)", row$estimate, row$ci_low, row$ci_high)
+  sprintf("%.4f (%.4f, %.4f)", row$estimate, row$ci_low, row$ci_high)
 }
 structural_table_rows <- lapply(names(scenario_labels), function(scenario) {
   rows <- structural[structural$scenario == scenario, ]
