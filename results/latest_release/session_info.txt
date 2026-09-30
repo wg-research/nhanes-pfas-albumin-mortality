@@ -1,0 +1,42 @@
+R version 4.5.3 (2026-03-11 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 11 x64 (build 22631)
+
+Matrix products: default
+  LAPACK version 3.12.1
+
+locale:
+[1] LC_COLLATE=Chinese (Simplified)_China.utf8 
+[2] LC_CTYPE=Chinese (Simplified)_China.utf8   
+[3] LC_MONETARY=Chinese (Simplified)_China.utf8
+[4] LC_NUMERIC=C                               
+[5] LC_TIME=Chinese (Simplified)_China.utf8    
+
+time zone: Asia/Shanghai
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+loaded via a namespace (and not attached):
+ [1] gtable_0.3.6       shape_1.4.6.1      xfun_0.53          ggplot2_4.0.0     
+ [5] htmlwidgets_1.6.4  lattice_0.22-7     Rdpack_2.6.4       vctrs_0.6.5       
+ [9] tools_4.5.3        generics_0.1.4     tibble_3.3.0       pan_1.9           
+[13] cluster_2.1.8.1    pkgconfig_2.0.3    jomo_2.7-6         Matrix_1.7-4      
+[17] data.table_1.17.8  checkmate_2.3.3    RColorBrewer_1.1-3 S7_0.2.0          
+[21] lifecycle_1.0.4    compiler_4.5.3     farver_2.1.2       stringr_1.5.2     
+[25] textshaping_1.0.3  mitools_2.4        codetools_0.2-20   survey_4.4-8      
+[29] htmltools_0.5.8.1  glmnet_4.1-10      htmlTable_2.4.3    Formula_1.2-5     
+[33] mice_3.18.0        nloptr_2.2.1       pillar_1.11.0      tidyr_1.3.1       
+[37] MASS_7.3-65        reformulas_0.4.1   Hmisc_5.2-5        iterators_1.0.14  
+[41] rpart_4.1.24       boot_1.3-32        foreach_1.5.2      mitml_0.4-5       
+[45] nlme_3.1-168       tidyselect_1.2.1   digest_0.6.39      stringi_1.8.7     
+[49] dplyr_1.1.4        purrr_1.1.0        forcats_1.0.0      splines_4.5.3     
+[53] fastmap_1.2.0      grid_4.5.3         colorspace_2.1-1   cli_3.6.5         
+[57] magrittr_2.0.3     patchwork_1.3.2    base64enc_0.1-3    survival_3.8-6    
+[61] broom_1.0.10       foreign_0.8-90     scales_1.4.0       backports_1.5.0   
+[65] rmarkdown_2.29     nnet_7.3-20        lme4_1.1-37        gridExtra_2.3     
+[69] ragg_1.5.0         hms_1.1.3          evaluate_1.0.5     knitr_1.50        
+[73] haven_2.5.5        rbibutils_2.3      rlang_1.1.6        Rcpp_1.1.0        
+[77] DBI_1.2.3          glue_1.8.0         renv_1.1.5         minqa_1.2.8       
+[81] rstudioapi_0.17.1  jsonlite_2.0.0     R6_2.6.1           systemfonts_1.3.2 

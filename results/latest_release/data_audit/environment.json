@@ -1,0 +1,78 @@
+{
+  "generated_at": "2026-09-29 04:44:56 UTC",
+  "project_root": "D:/Dev/Bio/nhanes-pfas-albumin-mortality",
+  "r_version": "R version 4.5.3 (2026-03-11 ucrt)",
+  "platform": "x86_64-w64-mingw32",
+  "packages": [
+    {
+      "package": "digest",
+      "available": true,
+      "version": "0.6.39",
+      "_row": "digest"
+    },
+    {
+      "package": "ggplot2",
+      "available": true,
+      "version": "4.0.0",
+      "_row": "ggplot2"
+    },
+    {
+      "package": "haven",
+      "available": true,
+      "version": "2.5.5",
+      "_row": "haven"
+    },
+    {
+      "package": "Hmisc",
+      "available": true,
+      "version": "5.2.5",
+      "_row": "Hmisc"
+    },
+    {
+      "package": "jsonlite",
+      "available": true,
+      "version": "2.0.0",
+      "_row": "jsonlite"
+    },
+    {
+      "package": "mice",
+      "available": true,
+      "version": "3.18.0",
+      "_row": "mice"
+    },
+    {
+      "package": "patchwork",
+      "available": true,
+      "version": "1.3.2",
+      "_row": "patchwork"
+    },
+    {
+      "package": "ragg",
+      "available": true,
+      "version": "1.5.0",
+      "_row": "ragg"
+    },
+    {
+      "package": "splines",
+      "available": true,
+      "version": "4.5.3",
+      "_row": "splines"
+    },
+    {
+      "package": "survey",
+      "available": true,
+      "version": "4.4.8",
+      "_row": "survey"
+    },
+    {
+      "package": "survival",
+      "available": true,
+      "version": "3.8.6",
+      "_row": "survival"
+    }
+  ],
+  "survey_lonely_psu": "adjust",
+  "primary_pfas_cycles": ["2003-2004", "2005-2006", "2007-2008", "2009-2010", "2011-2012", "2015-2016", "2017-2018"],
+  "secondary_surplus_cycle": "2013-2014",
+  "random_seed": 20260131
+}

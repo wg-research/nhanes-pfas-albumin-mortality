@@ -1,0 +1,5 @@
+"cohort","analyte","model","df","wald_chisq","p_time_interaction"
+"pfas_primary","pfas","M3",2,3.34295274911098,0.187969347519319
+"overlap_primary","pfas","M3",2,2.7210202377208,0.256529882839123
+"overlap_primary","lead","M3",2,1.14674105718622,0.563622527747651
+"overlap_primary","cadmium","M3",2,4.98146661763946,0.08284919025207

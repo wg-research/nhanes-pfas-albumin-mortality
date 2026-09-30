@@ -1,0 +1,3 @@
+"contrast","estimate","robust_se","ci_low","ci_high","z","p_value","analyte","cohort","physiology_specification","p_holm"
+"albumin_conditional_pfas_minus_lead",0.0467143328566534,0.0166434261409495,0.01409381704104,0.0793348486722668,2.80677382535543,0.00500403625198873,"pfas_vs_lead","overlap_primary","linear",0.00500403625198873
+"albumin_conditional_pfas_minus_cadmium",0.0537517762703879,0.013519514507441,0.0272540147473368,0.080249537793439,3.97586586713624,7.01236437002558e-05,"pfas_vs_cadmium","overlap_primary","linear",0.000140247287400512

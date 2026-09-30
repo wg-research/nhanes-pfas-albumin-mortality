@@ -1,0 +1,81 @@
+"cycle","ucod_leading","cause_group","deaths"
+"2003-2004",1,"Heart disease",416
+"2005-2006",1,"Heart disease",264
+"2007-2008",1,"Heart disease",267
+"2009-2010",1,"Heart disease",207
+"2011-2012",1,"Heart disease",151
+"2013-2014",1,"Heart disease",136
+"2015-2016",1,"Heart disease",63
+"2017-2018",1,"Heart disease",37
+"2003-2004",2,"Malignant neoplasms",301
+"2005-2006",2,"Malignant neoplasms",213
+"2007-2008",2,"Malignant neoplasms",256
+"2009-2010",2,"Malignant neoplasms",209
+"2011-2012",2,"Malignant neoplasms",154
+"2013-2014",2,"Malignant neoplasms",99
+"2015-2016",2,"Malignant neoplasms",67
+"2017-2018",2,"Malignant neoplasms",34
+"2003-2004",3,"Chronic lower respiratory diseases",79
+"2005-2006",3,"Chronic lower respiratory diseases",61
+"2007-2008",3,"Chronic lower respiratory diseases",67
+"2009-2010",3,"Chronic lower respiratory diseases",45
+"2011-2012",3,"Chronic lower respiratory diseases",31
+"2013-2014",3,"Chronic lower respiratory diseases",24
+"2015-2016",3,"Chronic lower respiratory diseases",0
+"2017-2018",3,"Chronic lower respiratory diseases",0
+"2003-2004",4,"Accidents",42
+"2005-2006",4,"Accidents",30
+"2007-2008",4,"Accidents",28
+"2009-2010",4,"Accidents",30
+"2011-2012",4,"Accidents",29
+"2013-2014",4,"Accidents",14
+"2015-2016",4,"Accidents",0
+"2017-2018",4,"Accidents",0
+"2003-2004",5,"Cerebrovascular diseases",72
+"2005-2006",5,"Cerebrovascular diseases",64
+"2007-2008",5,"Cerebrovascular diseases",69
+"2009-2010",5,"Cerebrovascular diseases",50
+"2011-2012",5,"Cerebrovascular diseases",32
+"2013-2014",5,"Cerebrovascular diseases",28
+"2015-2016",5,"Cerebrovascular diseases",0
+"2017-2018",5,"Cerebrovascular diseases",0
+"2003-2004",6,"Alzheimer disease",67
+"2005-2006",6,"Alzheimer disease",39
+"2007-2008",6,"Alzheimer disease",37
+"2009-2010",6,"Alzheimer disease",31
+"2011-2012",6,"Alzheimer disease",8
+"2013-2014",6,"Alzheimer disease",17
+"2015-2016",6,"Alzheimer disease",0
+"2017-2018",6,"Alzheimer disease",0
+"2003-2004",7,"Diabetes mellitus",53
+"2005-2006",7,"Diabetes mellitus",32
+"2007-2008",7,"Diabetes mellitus",39
+"2009-2010",7,"Diabetes mellitus",27
+"2011-2012",7,"Diabetes mellitus",27
+"2013-2014",7,"Diabetes mellitus",21
+"2015-2016",7,"Diabetes mellitus",0
+"2017-2018",7,"Diabetes mellitus",0
+"2003-2004",8,"Influenza and pneumonia",35
+"2005-2006",8,"Influenza and pneumonia",20
+"2007-2008",8,"Influenza and pneumonia",27
+"2009-2010",8,"Influenza and pneumonia",21
+"2011-2012",8,"Influenza and pneumonia",12
+"2013-2014",8,"Influenza and pneumonia",9
+"2015-2016",8,"Influenza and pneumonia",0
+"2017-2018",8,"Influenza and pneumonia",0
+"2003-2004",9,"Nephritis and related kidney diseases",39
+"2005-2006",9,"Nephritis and related kidney diseases",28
+"2007-2008",9,"Nephritis and related kidney diseases",25
+"2009-2010",9,"Nephritis and related kidney diseases",12
+"2011-2012",9,"Nephritis and related kidney diseases",12
+"2013-2014",9,"Nephritis and related kidney diseases",16
+"2015-2016",9,"Nephritis and related kidney diseases",0
+"2017-2018",9,"Nephritis and related kidney diseases",0
+"2003-2004",10,"All other causes",316
+"2005-2006",10,"All other causes",276
+"2007-2008",10,"All other causes",311
+"2009-2010",10,"All other causes",229
+"2011-2012",10,"All other causes",172
+"2013-2014",10,"All other causes",103
+"2015-2016",10,"All other causes",146
+"2017-2018",10,"All other causes",74

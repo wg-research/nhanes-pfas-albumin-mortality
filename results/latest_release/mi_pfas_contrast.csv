@@ -1,0 +1,2 @@
+"term","estimate","robust_se","ci_low","ci_high","df","p_value","fraction_missing_information","between_imputation_variance"
+"albumin_conditional_egfr",0.0603356684179163,0.0117293296567351,0.036977665610112,0.0836936712257206,76.604694788861,2.01064509841151e-06,0.0309120374639682,7.77907800366569e-07

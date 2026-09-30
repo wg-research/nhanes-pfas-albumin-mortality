@@ -1,0 +1,4 @@
+"replicate_call","analyte","model","warning","coefficient_index","affected_term","target_estimate"
+58,"cadmium","M3","Loglik converged before variable  24 ; coefficient may be infinite.",24,"cycle_factor2017-2018",0.154052051559281
+84,"cadmium","M3","Loglik converged before variable  24 ; coefficient may be infinite.",24,"cycle_factor2017-2018",0.155476224476554
+108,"cadmium","M3","Loglik converged before variable  24 ; coefficient may be infinite.",24,"cycle_factor2017-2018",0.155244806379657

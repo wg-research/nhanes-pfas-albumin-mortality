@@ -1,0 +1,29 @@
+"branch","step_order","step","n_remaining","n_excluded_since_previous"
+"Primary PFAS cohort",1,"NHANES participants in included cycles",70137,NA
+"Primary PFAS cohort",2,"Adults aged 20 years or older",39021,31116
+"Primary PFAS cohort",3,"Eligible for mortality linkage with follow-up",37247,1774
+"Primary PFAS cohort",4,"Positive analyte-specific survey weight",12191,25056
+"Primary PFAS cohort",5,"Complete exposure measurement",11335,856
+"Primary PFAS cohort",6,"Complete albumin and eGFR",11315,20
+"Primary PFAS cohort",7,"Complete primary adjustment set",10169,1146
+"Primary PFAS-metals overlap cohort",1,"NHANES participants in included cycles",60166,NA
+"Primary PFAS-metals overlap cohort",2,"Adults aged 20 years or older",33302,26864
+"Primary PFAS-metals overlap cohort",3,"Eligible for mortality linkage with follow-up",31788,1514
+"Primary PFAS-metals overlap cohort",4,"Positive analyte-specific survey weight",10463,21325
+"Primary PFAS-metals overlap cohort",5,"Complete exposure measurement",9690,773
+"Primary PFAS-metals overlap cohort",6,"Complete albumin and eGFR",9673,17
+"Primary PFAS-metals overlap cohort",7,"Complete primary adjustment set",8705,968
+"Full metals cohort",1,"NHANES participants in included cycles",80312,NA
+"Full metals cohort",2,"Adults aged 20 years or older",44790,35522
+"Full metals cohort",3,"Eligible for mortality linkage with follow-up",42825,1965
+"Full metals cohort",4,"Positive analyte-specific survey weight",37083,5742
+"Full metals cohort",5,"Complete exposure measurement",35443,1640
+"Full metals cohort",6,"Complete albumin and eGFR",34850,593
+"Full metals cohort",7,"Complete primary adjustment set",31469,3381
+"2013-2014 surplus-specimen PFAS cohort",1,"NHANES participants in included cycles",10175,NA
+"2013-2014 surplus-specimen PFAS cohort",2,"Adults aged 20 years or older",5769,4406
+"2013-2014 surplus-specimen PFAS cohort",3,"Eligible for mortality linkage with follow-up",5578,191
+"2013-2014 surplus-specimen PFAS cohort",4,"Positive analyte-specific survey weight",1603,3975
+"2013-2014 surplus-specimen PFAS cohort",5,"Complete exposure measurement",1603,0
+"2013-2014 surplus-specimen PFAS cohort",6,"Complete albumin and eGFR",1603,0
+"2013-2014 surplus-specimen PFAS cohort",7,"Complete primary adjustment set",1456,147

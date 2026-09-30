@@ -1,0 +1,12 @@
+"replicate_call","analyte","model","warning","coefficient_index","affected_term","target_estimate"
+10,"lead","M3","Loglik converged before variable  19 ; coefficient may be infinite.",19,"splines::ns(bmi, df = 3)3",0.00666058552227391
+12,"pfas","M1","Loglik converged before variable  19 ; coefficient may be infinite.",19,"splines::ns(bmi, df = 3)3",-0.12975983597238
+20,"cadmium","M3","Loglik converged before variable  22 ; coefficient may be infinite.",22,"cycle_factor2009-2010",0.15760926764968
+29,"pfas","M1","Loglik converged before variable  19 ; coefficient may be infinite.",19,"splines::ns(bmi, df = 3)3",-0.126783033873283
+39,"pfas","M1","Loglik converged before variable  19 ; coefficient may be infinite.",19,"splines::ns(bmi, df = 3)3",-0.122932010825532
+46,"pfas","M1","Loglik converged before variable  19 ; coefficient may be infinite.",19,"splines::ns(bmi, df = 3)3",-0.124107824544259
+67,"pfas","M1","Loglik converged before variable  19 ; coefficient may be infinite.",19,"splines::ns(bmi, df = 3)3",-0.128141432435219
+79,"pfas","M1","Loglik converged before variable  19 ; coefficient may be infinite.",19,"splines::ns(bmi, df = 3)3",-0.121971791406242
+92,"pfas","M1","Loglik converged before variable  19 ; coefficient may be infinite.",19,"splines::ns(bmi, df = 3)3",-0.129434854356169
+130,"pfas","M1","Loglik converged before variable  19 ; coefficient may be infinite.",19,"splines::ns(bmi, df = 3)3",-0.126175352632082
+148,"pfas","M1","Loglik converged before variable  19 ; coefficient may be infinite.",19,"splines::ns(bmi, df = 3)3",-0.129393003855244

@@ -1,0 +1,61 @@
+# Source data
+# NHANES public-use files are obtained from NCHS and are not stored in Git.
+/Database/
+
+# Regenerable participant-level intermediates and imputation caches
+/data_rebuild/
+
+# Manuscript drafts and submission materials are maintained separately
+/manuscript/
+
+# Raw NHANES and participant-level data, regardless of location
+*.xpt
+*.dat
+*.rds
+
+# Runtime logs (aggregate release outputs remain tracked)
+/results/latest_release/logs/
+**/logs/
+
+# Local R state and user-specific configuration
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+.Renviron.*
+!.Renviron.example
+.Rproj.user/
+
+# Local renv artifacts; keep renv.lock and renv infrastructure files
+/renv/library/
+/renv/staging/
+/renv/cache/
+/renv/local/
+/renv/cellar/
+/renv/sandbox/
+/renv/python/
+
+# Editor, operating-system, and tool-specific files
+*.Rproj
+*.code-workspace
+/.vscode/
+/.idea/
+/.claude/
+/.codex/
+/.agents/
+.DS_Store
+Thumbs.db
+Desktop.ini
+~$*
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Locally assembled release archives
+/*.zip
+/*.7z
+/*.tar
+/*.tar.gz
+
+/tmp
